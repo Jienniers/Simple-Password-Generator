@@ -26,12 +26,6 @@ Install required modules to run the py file
 ![App Screenshot](https://github.com/Jienniers/Simple-Password-Generator/blob/main/Screenshots/Screenshot2.png)
 
 
-
-## Logo for the App
-
-![Logo](https://cdn.discordapp.com/attachments/1123218533661286450/1199129823302398092/padlock.png)
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at codeMaestroy105@outlook.com
