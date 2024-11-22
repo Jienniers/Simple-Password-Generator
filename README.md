@@ -21,9 +21,9 @@ Install required modules to run the py file
 
 ## Screenshots
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1123218533661286450/1199130842916728913/image.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Password-Generator/blob/main/Screenshots/Screenshot.png)
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1123218533661286450/1199131123570196630/image.png)
+![App Screenshot](https://github.com/Jienniers/Simple-Password-Generator/blob/main/Screenshots/Screenshot2.png)
 
 
 
