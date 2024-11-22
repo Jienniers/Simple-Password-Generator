@@ -26,7 +26,7 @@ Install required modules to run the py file
 ![App Screenshot](https://github.com/Jienniers/Simple-Password-Generator/blob/main/Screenshots/Screenshot2.png)
 
 
-## Feedback
+## Support
 
-If you have any feedback, please reach out to us at codeMaestroy105@outlook.com
+If you encounter any issues or have suggestions for improvement, please submit an issue on the GitHub repository.
 
